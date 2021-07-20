@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Iterations_and_lists
+namespace 3n+1 Problem
 {
     class Program
     {
